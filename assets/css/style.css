@@ -1694,8 +1694,8 @@ hr {
   }
 }
 .section-padding30 {
-  padding-top: 200px;
-  padding-bottom: 140px;
+  padding-top: 30px;
+  padding-bottom: 30px;
 }
 @media only screen and (min-width: 1200px) and (max-width: 1600px) {
   .section-padding30 {
