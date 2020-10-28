@@ -524,6 +524,8 @@ pre code {
   padding-left: 15px;
   margin-right: auto;
   margin-left: auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
 }
 .row {
   display: -ms-flexbox;
